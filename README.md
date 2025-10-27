@@ -1,5 +1,6 @@
 # Walmart Advanced Software Engineering Job Simulation - Forage
 This repo contains the starter code for task #4, which involved three CSV files of different formats. 
+
 Task #1:
 Programmed a data structure using specs in Java
 
